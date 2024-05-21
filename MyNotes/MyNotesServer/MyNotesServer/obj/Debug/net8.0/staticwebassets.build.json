@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6b4bi6KRNrgk4ZufZ54SMaBRNtXWAP3qTSHk0SVZH8M=",
+  "Source": "MyNotesServer",
+  "BasePath": "_content/MyNotesServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
